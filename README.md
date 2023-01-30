@@ -2,18 +2,10 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
+Starter code for the company webpage Horiseon was provided for refactoring. The HTML and CSS files were better organized to follow semantic structure. Comments were added to ease the follow along for all or any other people who want to examine the code. The offerings links in the header function to navigate the user to the correct content on the page. This challenge offered up HTML and CSS practice for readability and organization. Reinforced topics learned in HTML, such as, class/id naming conventions and its associated CSS selectors and properties.
 
 ## Table of Contents
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
@@ -24,21 +16,21 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Informational webpage. Scroll for content. Click the offerings in header to quickly navigate to the associated content on webpage.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Webpage screenshot below:
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+```md
+![Horiseon Webpage](assets/images/screenshot.png)
+```
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+Starter code pulled from gitlab UNC coding bootcamp repository:
+ https://unc.bootcampcontent.com/UNC-Coding-Boot-Camp/UNC-VIRT-FSF-PT-01-2023-U-LOLC 
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+README.md template pulled from coding bootcamp github page: 
+https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
 ## License
 
